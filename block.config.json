@@ -1,0 +1,13 @@
+{
+  "name": "password_recovery_fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Digambaran/password_recovery_fn",
+    "ssh": "git@github.com:Digambaran/password_recovery_fn.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
