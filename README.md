@@ -1,1 +1,1 @@
-#password_recovery_fn
+#sample_password_recovery_fn
